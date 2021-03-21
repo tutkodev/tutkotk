@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin Tutko 
 - 👀 I’m interested in how the world works
 - 🌱 I’m currently learning JavaScript, React & Next.js
-- 💞️ I’m looking to collaborate on any interesting projects ...
+- 💞️ I’m looking forward to any new collaboration ...
 - 📫 How to reach me:
   - https://www.tutko.tk 
   - tutko.tk@gmail.com
