@@ -4,5 +4,5 @@
 - 💞️ I’m looking forward to any new collaboration ...
 - 📫 How to reach me:
   - https://tutko.dev
-  - tutko.tk@gmail.com
+  - martin.tutkok@gmail.com
 
